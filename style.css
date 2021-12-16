@@ -168,3 +168,53 @@ color: #163A24;
 .hr-production{
     background-color: #163A24;
 }
+.section-five-employee{
+    flex-direction: column;
+    text-align: center;
+    padding: 119px 0px 119px;
+    
+}
+.section-five-employees{
+    background-color: #F2EFE6;
+
+}
+.h1-of-employees{
+    font-family: Recoleta;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    text-align: center;
+    color: #163A24;
+    /* padding: 114px 350px 27px; */
+    width: 739px;
+    margin: auto;
+}
+.paragraph-text-em{
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #163A24;
+    width: 760px;
+    margin: auto;
+    margin-top: 27px;
+}
+.pics-all{
+
+}
+.pad{
+    padding: 180px 230px 112px;
+}
+.right-site{
+    padding: 130px 230px 112px;
+
+}
+.lala{
+    padding-bottom: 0px ;
+}
+.lulu{
+    padding-top: 0px;
+}
