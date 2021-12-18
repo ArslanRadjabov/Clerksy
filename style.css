@@ -405,7 +405,7 @@ header{
 
 }.main-get-strated{
     text-align: center;
-    padding: 0px 425px 0px;
+    padding: 0 5% 0;
     display: flex;
     justify-content: space-evenly;
     gap: 100px;
@@ -515,4 +515,9 @@ padding-top: 26px;
     line-height: 21px;
 /* identical to box height, or 150% */
     color: #163A24;
+}
+
+.imgs{
+    display: flex;
+    margin: 0 auto;
 }
